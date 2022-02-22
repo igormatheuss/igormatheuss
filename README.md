@@ -1,6 +1,5 @@
 ## 👋 Olá! Me chamo Igor Matheus
 
-- Atualmente estou procurando um emprego
 
 <div align="center">
   <a href="https://github.com/igormatheuss">
